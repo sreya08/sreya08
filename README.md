@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I’m Shreya  
 
-<!--
-**sreya08/sreya08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused full-stack developer with 3+ years of experience and an MS in Computer Science from NJIT.  
 
-Here are some ideas to get you started:
+💻 **Current Role:**  
+Working as a frontend developer on large-scale enterprise applications, building accessible Angular (v12+) UIs, improving form state persistence, and integrating with Spring Boot microservices.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Previous Role:**  
+Led frontend development for a wellness platform using React.js, Material UI, and Tailwind CSS. Delivered reusable UI modules, real-time state sync, PDF export flows, and JWT-based auth, while collaborating on FastAPI + PostgreSQL services deployed on Azure.  
+
+---
+
+### 🔧 Skills & Tools
+- **Frontend:** React.js, Angular, TypeScript, RxJS, Material UI, Tailwind  
+- **Backend & APIs:** FastAPI, Flask, Spring Boot, PostgreSQL, REST APIs, AWS Lambda  
+- **Cloud & DevOps:** Azure, AWS, Jenkins, GitHub Actions  
+- **Testing:** Jest, React Testing Library, Cypress, CodeceptJS, Postman  
+
+---
+
+🎯 I enjoy solving problems end-to-end — from building clean, modular UIs to ensuring smooth backend integrations — with a strong focus on user experience, reliability, and cross-team collaboration.  
+
+📫 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/shreya9828/) | [Email](mailto:shreya28098@gmail.com)  
